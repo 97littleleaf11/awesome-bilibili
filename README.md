@@ -37,6 +37,15 @@
 - [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) - bilibili视频下载器
   - 支持UI界面、扫码登录、多P下载、收藏夹下载、UP主视频下载、断点续传、CC字幕下载、互动视频等
 
+
+
+### Crawler
+
+* **[bilibili-user](https://github.com/airingursb/bilibili-user)** - Bilibili用户爬虫
+
+  * 知乎专栏数据分析：[B站2000万用户数据分析](https://zhuanlan.zhihu.com/p/24434456)
+
+
 ### API
 
 - [BilibiliAPIDocs](https://github.com/fython/BilibiliAPIDocs) - bilibili开放接口第三方文档（仅提供官方曾公开接口）
@@ -47,4 +56,13 @@
 
 屏蔽词分享平台
 
-RSSHub
+
+
+### 其他通用工具
+
+* **[VideoSpeedController](https://github.com/igrigorik/videospeed)** - HTML5视频播放加速，可以使播放速度超过2倍
+* **[annie](https://github.com/iawia002/annie)** - 用Go构建的快速、简单、干净的视频下载器，支持很多视频网站，支持多种操作系统
+* **[RSSHub](https://github.com/DIYgod/RSSHub)** - RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
+  * [bilibili订阅](https://docs.rsshub.app/social-media.html#bilibili) - 支持订阅番剧信息、用户追番列表，分区视频及排行榜、视频评论、视频弹幕，直播开播、直播分区，up主投稿、专栏、动态、投币、粉丝、关注、收藏夹，会员购新品、上架……
+  * [二次元资讯](https://docs.rsshub.app/anime.html#_005-tv) - 005.tv、Anime1、Animen动漫平台、Anitama、Bangumi……
+  * ……
