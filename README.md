@@ -13,6 +13,7 @@
 ### Browser Scripts
 
 - **[bilibili-helper](https://github.com/bilibili-helper/bilibili-helper) - 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作**
+
     - [直播区功能](https://github.com/bilibili-helper/bilibili-helper/wiki/为直播区提供了什么功能？)
         - 直播间开播推送
         - 辅助签到
@@ -22,16 +23,19 @@
         - 广告屏蔽
         - 弹幕查询和下载
         - 视频下载
-- **[ipcjs/bilibili-helper](https://github.com/ipcjs/bilibili-helper) - 解除B站区域限制**
-- **[pakku.js](https://github.com/xmcp/pakku.js) - 自动合并相近时间内的重复弹幕**
-- **[Bilibili-Anime4K](https://github.com/net2cn/Bilibili_Anime4K) - 通过Anime4K滤镜让Bilibili上的2D番剧更加锐利! ** 
-- **[Web端猜你喜欢](https://github.com/chitosai/bili-guessYouLike)- 将移动端的猜你喜欢移植到Web端**
 
+- **[ipcjs/bilibili-helper](https://github.com/ipcjs/bilibili-helper) - 解除B站区域限制**
+
+- **[pakku.js](https://github.com/xmcp/pakku.js) - 自动合并相近时间内的重复弹幕**
+
+- **[Bilibili-Anime4K](https://github.com/net2cn/Bilibili_Anime4K) - 通过Anime4K滤镜让Bilibili上的2D番剧更加锐利 ** 
+
+- **[Web端猜你喜欢](https://github.com/chitosai/bili-guessYouLike)- 将移动端的猜你喜欢移植到Web端**
 
 
 ### Platforms
 
-* **[Bilibili屏蔽词分享平台](https://github.com/harrynull/bilibili_blacklist) - 一个可以用来分享、管理您在Bilibili设置的弹幕屏蔽词的网站**
+- **[Bilibili屏蔽词分享平台](https://github.com/harrynull/bilibili_blacklist) - 一个可以用来分享、管理您在Bilibili设置的弹幕屏蔽词的网站**
 
 
 
@@ -44,9 +48,9 @@
 
 ### Crawler
 
-* **[bilibili-user](https://github.com/airingursb/bilibili-user)** - Bilibili用户爬虫
+- **[bilibili-user](https://github.com/airingursb/bilibili-user)** - Bilibili用户爬虫
+  - 知乎专栏数据分析：[B站2000万用户数据分析](https://zhuanlan.zhihu.com/p/24434456)
 
-  * 知乎专栏数据分析：[B站2000万用户数据分析](https://zhuanlan.zhihu.com/p/24434456)
 
 
 ### API
