@@ -27,6 +27,10 @@
 - **[Bilibili-Anime4K](https://github.com/net2cn/Bilibili_Anime4K) - 通过Anime4K滤镜让Bilibili上的2D番剧更加锐利** 
 - **[Web端猜你喜欢](https://github.com/chitosai/bili-guessYouLike) - 将移动端的猜你喜欢移植到Web端**
 
+### Mobile Modules
+
+- **[BiliRoamingb哔哩漫游](https://github.com/yujincheng08/BiliRoaming) - 解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能**
+
 
 ### Platforms
 
@@ -56,7 +60,7 @@
 
 
 
-### 其他通用工具
+### Other Tools
 
 * **[VideoSpeedController](https://github.com/igrigorik/videospeed)** - HTML5视频播放加速，可以使播放速度超过2倍
 * **[annie](https://github.com/iawia002/annie)** - 用Go构建的快速、简单、干净的视频下载器，支持很多视频网站，支持多种操作系统
