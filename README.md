@@ -36,6 +36,8 @@
 
 ### Apps
 
+- **[DD_Monitor](https://github.com/zhimingshenjun/DD_Monitor) - DD监控室**
+  - 同屏播放多个VTuber直播间（[使用指南](https://www.bilibili.com/video/BV14v411s7WE))
 - **[BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) - bilibili视频下载器**
   - 支持UI界面、扫码登录、多P下载、收藏夹下载、UP主视频下载、断点续传、CC字幕下载、互动视频等
 
